@@ -1,0 +1,26 @@
+{
+  "name": "repaso-promises",
+  "version": "1.0.0",
+  "description": "promises, node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmaliaRiveraC/repaso-promises.git"
+  },
+  "keywords": [
+    "npm",
+    "express",
+    "node",
+    "promises"
+  ],
+  "author": "Amalia Rivera <amaliariveracastillejos\u001bq\u001b2@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmaliaRiveraC/repaso-promises/issues"
+  },
+  "homepage": "https://github.com/AmaliaRiveraC/repaso-promises#readme"
+}
